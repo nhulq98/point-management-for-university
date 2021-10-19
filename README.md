@@ -1,3 +1,7 @@
+<p><img alt="GitHub" src="https://img.shields.io/github/license/nhulq98/point-management-for-university">
+<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/nhulq98/point-management-for-university">
+</p>
+
 # point-management for university
 Management point follow by college credit system 
 
